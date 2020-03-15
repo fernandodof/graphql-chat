@@ -28,5 +28,40 @@
     "id": "H1SeUSGBU",
     "from": "alice",
     "text": "How are you ?"
+  },
+  {
+    "id": "HJcfCOir8",
+    "from": "alice",
+    "text": "hi"
+  },
+  {
+    "id": "ryJ7Rdor8",
+    "from": "bob",
+    "text": "hi"
+  },
+  {
+    "id": "HJNXR_srL",
+    "from": "bob",
+    "text": "how are you"
+  },
+  {
+    "id": "S1vm0usBL",
+    "from": "bob",
+    "text": "?"
+  },
+  {
+    "id": "HJuzyKirI",
+    "from": "alice",
+    "text": "okay"
+  },
+  {
+    "id": "rJazkKoSL",
+    "from": "alice",
+    "text": "what about you ?"
+  },
+  {
+    "id": "rJt7yYsBI",
+    "from": "bob",
+    "text": "good thanks "
   }
 ]
