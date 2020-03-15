@@ -3,5 +3,30 @@
     "id": "SJKhIAKYB",
     "from": "system",
     "text": "Welcome!"
+  },
+  {
+    "id": "HylDNeQV8",
+    "from": "alice",
+    "text": "hello"
+  },
+  {
+    "id": "Bkv_Vx7EI",
+    "from": "bob",
+    "text": "test"
+  },
+  {
+    "id": "S1n6BBGrU",
+    "from": "alice",
+    "text": "Hello"
+  },
+  {
+    "id": "HJFABBGSL",
+    "from": "alice",
+    "text": "Hellooooo ?"
+  },
+  {
+    "id": "H1SeUSGBU",
+    "from": "alice",
+    "text": "How are you ?"
   }
 ]
